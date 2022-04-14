@@ -1,4 +1,4 @@
-# ItalianPhishingDetection
+# Italian Phishing Detection
 
 Machine Learning Techniques for Italian Phishing Detection
 
